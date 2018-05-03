@@ -7,3 +7,7 @@ about your projects. In addition, you can set notifications about upcoming deadl
 remaining tasks and deadlines of your projects in separate home screen widgets. In order to use the app,
 you need to sign up with your Google Account. Once you are signed up you can access your data from
 any Android device.
+
+# Usage
+
+You should use the installRelease Gradle Task to test the app.
