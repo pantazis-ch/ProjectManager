@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.example.projectmanager">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".main.SignInActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".main.MainActivity"></activity>
+        <activity android:name=".main.projects.aveproject.AVEProjectActivity" />
+        <activity android:name=".detail.DetailActivity" />
+        <activity android:name=".detail.specifications.avespecification.AVESpecificationActivity" />
+        <activity android:name=".detail.brainstorming.aveidea.AVEIdeaActivity" />
+        <activity android:name=".detail.tasks.avetask.AVETaskActivity" />
+        <activity android:name=".detail.deadlines.avedeadline.AVEDeadlineActivity" />
+        <activity android:name=".detail.notes.avenote.AVENoteActivity" />
+
+        <receiver android:name=".widget.TaskListWidget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.android.example.projectmanager.ACTION_DATA_UPDATED" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/task_list_widget_info" />
+        </receiver>
+
+        <service
+            android:name=".widget.WidgetService"
+            android:permission="android.permission.BIND_REMOTEVIEWS" />
+
+        <receiver
+            android:name=".reminder.NotificationPublisher"
+            android:enabled="true"
+            android:exported="true" />
+
+        <service
+            android:name=".quotesync.QuoteUpdaterService"
+            android:exported="false"></service>
+    </application>
+
+</manifest>

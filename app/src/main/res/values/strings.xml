@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name" translatable="false">Project Manager</string>
+
+    <string name="pref_is_first_sync_key" translatable="false">first_sync</string>
+    <string name="pref_get_date" translatable="false">get_date</string>
+    <string name="pref_get_quote" translatable="false">get_quote</string>
+    <string name="pref_get_author" translatable="false">get_author</string>
+    <string name="pref_get_image_link" translatable="false">get_image_link</string>
+
+    <string name="pref_current_project_position_key" translatable="false">current_project_position_key</string>
+    <string name="pref_project_count_key" translatable="false">project_count</string>
+
+    <string name="label_project_name" translatable="true">Project Name:</string>
+    <string name="label_required" translatable="true">*Required</string>
+    <string name="label_project_tag" translatable="true">Project Tag:</string>
+    <string name="label_deadline" translatable="true">Deadline:</string>
+    <string name="label_final_deadline" translatable="true">Final Deadline:</string>
+    <string name="label_optional" translatable="true">*Optional</string>
+    <string name="label_deadline_title" translatable="true">Deadline Title:</string>
+    <string name="label_project_completed" translatable="true">Project Completed:</string>
+    <string name="label_project_description" translatable="true">Project Description:</string>
+    <string name="label_na" translatable="true">n / a</string>
+    <string name="label_idea" translatable="true">Idea:</string>
+    <string name="label_note" translatable="true">Note:</string>
+    <string name="label_spec_text" translatable="true">Specification:</string>
+    <string name="label_spec_note" translatable="true">Specification Note:</string>
+    <string name="label_task_description" translatable="true">Task Description:</string>
+    <string name="label_task_note" translatable="true">Task Note:</string>
+
+    <string name="label_expired" translatable="true">Expired</string>
+    <string name="label_completed">Completed</string>
+    <string name="label_in_progress">In Progress</string>
+
+    <string name="label_add_project" translatable="true">Add Project</string>
+    <string name="label_add_idea" translatable="true">Add Idea</string>
+    <string name="label_add_deadline" translatable="true">Add Deadline</string>
+    <string name="label_add_note" translatable="true">Add Note</string>
+    <string name="label_add_specification" translatable="true">Add Specification</string>
+    <string name="label_add_task" translatable="true">Add Task</string>
+    <string name="label_save_changes" translatable="true">Save Changes</string>
+
+    <string name="msg_no_project_name" translatable="true">You should add a project name!</string>
+    <string name="msg_no_project_tag" translatable="true">You should add a project tag!</string>
+    <string name="msg_deadline_extension" translatable="true">In this section you can only extend the deadline!</string>
+    <string name="msg_no_idea" translatable="true">You should add an idea!</string>
+    <string name="msg_no_deadline_title" translatable="true">You should add a deadline title!</string>
+    <string name="msg_no_deadline_date" translatable="true">You should set a date!</string>
+    <string name="msg_no_deadline_time" translatable="true">You should set a time!</string>
+    <string name="msg_notification" translatable="true">Deadline ends in 24 hours.</string>
+    <string name="msg_no_note" translatable="true">You should add a note!</string>
+    <string name="msg_no_specification" translatable="true">You should add a specification!</string>
+    <string name="msg_no_task" translatable="true">You should add a task!</string>
+    <string name="msg_item_deleted" translatable="true">1 Item Removed</string>
+    <string name="msg_undo" translatable="true">UNDO</string>
+    <string name="msg_set_date_first" translatable="true">You should set the date first!</string>
+
+    <string name="title_edit_project" translatable="true">Edit Project...</string>
+    <string name="title_add_new_project" translatable="true">Add a new Project...</string>
+    <string name="title_edit_idea" translatable="true">Edit Idea...</string>
+    <string name="title_add_new_idea" translatable="true">Add a new Idea...</string>
+    <string name="title_edit_task" translatable="true">Edit Task...</string>
+    <string name="title_add_new_task" translatable="true">Add a new Task...</string>
+    <string name="title_edit_deadline" translatable="true">Edit Deadline...</string>
+    <string name="title_add_new_deadline" translatable="true">Add a new Deadline...</string>
+    <string name="title_edit_note" translatable="true">Edit Note...</string>
+    <string name="title_add_new_note" translatable="true">Add a new Note...</string>
+    <string name="title_edit_specification" translatable="true">Edit Specification...</string>
+
+    <string name="detail_pager_specs_title" translatable="true">Specs</string>
+    <string name="detail_pager_brainstorming_title" translatable="true">Brainstorming</string>
+    <string name="detail_pager_tasks_title" translatable="true">Tasks</string>
+    <string name="detail_pager_deadlines_title" translatable="true">Deadlines</string>
+    <string name="detail_pager_notes_title" translatable="true">Notes</string>
+    <string name="detail_pager_error_title" translatable="true">Error</string><string name="title_add_new_specification" translatable="true">Add a new Specification...</string>
+
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="no_project_short" translatable="true">You have no projects!</string>
+
+    <string name="no_internet_connection" translatable="true">No internet connectivity</string>
+    <string name="unknown_error" translatable="true">An error occured when trying to sign in.</string>
+    <string name="welcome_message" translatable="true">Welcome to Project Manager!</string>
+    <string name="sign_in_label" translatable="true">Sign In</string>
+    <string name="sign_in_cancelled" translatable="true">Sign In Cancelled</string>
+    <string name="sign_out_label" translatable="true">Sign Out</string>
+
+    <string name="final_deadline_title" translatable="true">Final Deadline</string>
+
+    <string name="no_tasks_short" translatable="true">You have no tasks!</string>
+    <string name="msg_no_projects_short" translatable="true">You have no projects!</string>
+    <string name="quote_update_failed">Quote update failed</string>
+
+    <string name="cd_add_new_note" translatable="true">Add new note</string>
+    <string name="cd_add_new_specification" translatable="true">Add new specification</string>
+    <string name="cd_add_new_task" translatable="true">Add new task</string>
+    <string name="cd_add_new_deadline" translatable="true">Add new deadline</string>
+    <string name="cd_add_new_idea" translatable="true">Add new idea</string>
+    <string name="cd_add_new_project" translatable="true">Add new project</string>
+    <string name="cd_project_overview" translatable="true">Project Overview</string>
+    <string name="cd_reset_date" translatable="true">Reset date</string>
+
+    <string name="label_task_number" translatable="true">Task </string>
+    <string name="label_notification" translatable="true">Notification:</string>
+    <string name="_24hrs_label_notification_time" translatable="true">24hrs before the deadline.</string>
+
+
+</resources>

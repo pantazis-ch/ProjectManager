@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimaryLight">#E57373</color>
+    <color name="colorAccent">#D32F2F</color>
+
+    <color name="colorData">#2196F3</color>
+
+    <color name="colorBackground">#d3d3d3</color>
+
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorInputBackground">#90afc5</color>
+    <color name="colorInputLabelBackground">#336b87</color>
+    <color name="colorRequiredLabelBackground">#763626</color>
+    <color name="colorOptionalLabelBackground">#2a3132</color>
+
+
+    <color name="color1">#90afc5</color>
+    <color name="color2">#336b87</color>
+    <color name="color3">#2a3132</color>
+    <color name="color4">#763626</color>
+    <color name="color5">#388E3C</color>
+
+    <color name="color6">#00796B</color>
+
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+
+    <array name="darkColors">
+        <item>#7B1FA2</item>
+        <item>#00796B</item>
+        <item>#E64A19</item>
+        <item>#388E3C</item>
+    </array>
+
+    <array name="lightColors">
+        <item>#90CAF9</item>
+        <item>#B0BEC5</item>
+        <item>#90afc5</item>
+        <item>#E57373</item>
+    </array>
+
+</resources>
