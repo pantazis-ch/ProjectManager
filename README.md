@@ -32,6 +32,10 @@ When the user opens the app for the first time he should sign upa with his Googl
   <img src="https://drive.google.com/uc?id=1fE92ADKdaZdI80hOLLXiSwluj_ksIGLN" width="300" height="450">
 </p>
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1mEd_Hzj1usnEWEpPjCVmfo4gZF2cixvV" width="300" height="450"> &nbsp<img src="https://drive.google.com/uc?id=1_IPFSdOzMxhjmcb7sS7OG5jbV6nK13tW" width="300" height="450">
+</p>
+
 
 ## Usage
 
