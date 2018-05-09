@@ -24,6 +24,11 @@ When the user opens the app for the first time he should sign upa with his Googl
   <img src="https://drive.google.com/uc?id=1w6Si7Jk4OUKsIhjKdfTYQbVGMeSWRx-U" width="300" height="450"> &nbsp<img src="https://drive.google.com/uc?id=1SxRveZn_9b5ug190DHat8sKGVNV9MYLq" width="300" height="450">
 </p>
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1vWDaZN_j70IGZeDLk4eu7NT080SnLpk_" width="300" height="450"> &nbsp<img src="https://drive.google.com/uc?id=1hk3yy9O4KMK5AA9yMBcwI-35Zqhxx8M8" width="300" height="450">
+</p>
+
+
 ## Usage
 
 You should use the installRelease Gradle Task to test the app.
