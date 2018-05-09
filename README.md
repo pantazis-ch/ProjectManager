@@ -37,7 +37,7 @@ When the user opens the app for the first time he should sign upa with his Googl
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/open?id=10UKI19Cb2-FfnzXVDxrbly0wH7cRZ8hz" width="300" height="450">
+  <img src="https://drive.google.com/uc?id=10UKI19Cb2-FfnzXVDxrbly0wH7cRZ8hz" width="300" height="450">
 </p>
 
 
