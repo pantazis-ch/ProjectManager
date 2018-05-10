@@ -8,9 +8,6 @@ remaining tasks and deadlines of your projects in separate home screen widgets. 
 you need to sign up with your Google Account. Once you are signed up you can access your data from
 any Android device.
 
-## How It Works
-
-When the user opens the app for the first time he should sign upa with his Google Account.
 
 <p align="center">
   <img src="https://drive.google.com/uc?id=1j292_lw5Fy1SVE1x1aO7Flxj5gOM19LQ" width="300" height="450"> &nbsp<img src="https://drive.google.com/uc?id=1ET50h2M73vLQG34LbxtsDaxLjZuwje-V" width="300" height="450">
