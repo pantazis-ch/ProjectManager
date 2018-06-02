@@ -46,7 +46,7 @@ You should use the installRelease Gradle Task to test the app.
 
 1. The user should sign in with the [**Firebase Authentication**](https://firebase.google.com/docs/auth/).
 
-2. All the data is store with the help of [**Firebase Realtime Database**](https://firebase.google.com/docs/database/).
+2. All the data is stored with the help of [**Firebase Realtime Database**](https://firebase.google.com/docs/database/).
 
 1. In order to get the recipe data the app makes a [**network request**](https://developer.android.com/training/basics/network-ops/) and then [**parses the JSON data**](https://developer.android.com/reference/org/json/package-summary) that it receives. Each network request is made on a seperate thread with the help of the [**Intent Service**](https://developer.android.com/reference/android/app/IntentService). The Intent Service makes a [**Broadcast**](https://developer.android.com/guide/components/broadcasts) in order to inform the main thread about the success or the failure of the process.
 2. The app uses a [**RecyclerView**](https://developer.android.com/guide/topics/ui/layout/recyclerview) to show the list of recipes.
